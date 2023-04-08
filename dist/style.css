@@ -1,0 +1,24 @@
+h1{
+ background-color:#CD00CD;
+  text-align:center;
+  color:white;
+}
+body{
+  background-color:#5D478B;
+  
+}
+.left{
+  float:left;
+  margin-top:100px;
+}
+img{
+  width:500px;
+  height:300px;
+}
+.move1{
+  margin-left:250px;
+ 
+}
+.move2{
+  margin-right:100px;
+}
